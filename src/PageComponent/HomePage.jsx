@@ -51,10 +51,10 @@ Say goodbye to manual scheduling headaches and hello to a smarter way of managin
             />
           </div>
           <div className="col-md-8 text-color">
-            <h1 className="ms-5">Efficient Time Management System</h1>
+            <h1 className="ms-5">Efficient School Management System</h1>
             <p className="ms-5">
               In today's fast-paced academic environment, effective time
-              management is essential for success. Our Time Management System
+              management is essential for success. Our School Management System
               provides tools and resources to help students and faculty optimize
               their schedules, prioritize tasks, and make the most of their
               time. With features like customizable calendars, task lists, and
